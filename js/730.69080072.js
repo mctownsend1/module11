@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmodule11"]=self["webpackChunkmodule11"]||[]).push([[730],{730:function(n,e,u){u.r(e),u.d(e,{default:function(){return s}});var t=u(641);const o={class:"about"};function a(n,e){return(0,t.uX)(),(0,t.CE)("div",o,[...e[0]||(e[0]=[(0,t.Lk)("h1",null,"Contact Information",-1),(0,t.Lk)("p",null,"Megan Townsend",-1),(0,t.Lk)("p",null,"mctownsend1@mywaketech.edu",-1)])])}var c=u(262);const l={},r=(0,c.A)(l,[["render",a]]);var s=r}}]);
+//# sourceMappingURL=730.69080072.js.map
